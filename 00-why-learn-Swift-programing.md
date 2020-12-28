@@ -1,6 +1,6 @@
 ## 00 为什么学习Swift语言
 
-
+<img src="https://loyioblog.oss-cn-beijing.aliyuncs.com/LoyioBlog/8s58a.png" alt="Swift - Apple Developer" style="zoom:50%;" />
 
 
 
@@ -16,4 +16,10 @@
 
 
 
-而Mac一般都不是玩游戏的首选，这就使他比传统PC要稍逊一筹，所以占有率低也是理所当然。我为什么选择Mac，这里我首先表明我的几个身份，首先是苹果全家桶用户，然后是一名普通开发者。我也不是那种不玩游戏的人，只是用于玩游戏的PC太贵了，不是我能承受得起的，所以我更愿意买PlayStation 和 Xbox，或者是Nintendo Switch来满足自己的娱乐需求。
+而Mac一般都不是玩游戏的首选，这就使他比传统PC要稍逊一筹，所以占有率低也是理所当然。我为什么选择Mac，这里我首先表明我的几个身份，首先是苹果全家桶用户，然后是一名普通开发者。我也不是那种不玩游戏的人，只是用于玩游戏的PC太贵了，不是我能承受得起的，所以我更愿意买PlayStation 和 Xbox，或者是Nintendo Switch来满足自己的娱乐需求。另一个原因是macOS的环境更适合开发者（至少对我来说是这样的），macOS是基于Unix核心开发的操作系统，他在使用上可能比较接近于Linux系统，就不说别的，在终端方面，terminal肯定是要比cmd（Windows Shell）好用的，虽然有第三方的，但是没有系统级的支持，第三方做的再好，也缺少很多功能。其它的我也不想多说了，我这篇文章的重点应该是为什么学习Swift语言。
+
+
+
+
+
+2.

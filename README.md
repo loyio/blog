@@ -1,3 +1,3 @@
 # blog
-write some blog use github
+Watch My Blog in Issues Tab
 

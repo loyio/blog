@@ -76,10 +76,14 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/loyiome"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/loyio"
+        - name: keybase
+          url: "https://keybase.io/loyio"
+        - name: telegram
+          url: "https://t.me/loyio"
+        - name: email
+          url: "mailto:i@loyio.me"
 
     analytics:
         google:

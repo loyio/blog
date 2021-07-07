@@ -3,7 +3,7 @@ title: "Quantumult X 相关配置问题"
 date: 2020-05-03T18:43:06+08:00
 #description: <descriptive text here>
 # weight: 1
-# aliases: ["/2020/05/03/quantumnltx-config"]
+aliases: ["/2020/05/03/quantumnltx-config"]
 tags: ["Quantumult X", "trojan"]
 categories: ["网络工具"]
 showToc: true
@@ -66,7 +66,7 @@ QuantumultX 用户教程: https://www.notion.so/kopshawn/Quantumult-X-1d32ddc6e6
 
 下面是trojan的配置，将example.com改成你自己的trojan域名，pwd改成自己的密码就可以了
 
-```
+```bash
 trojan=example.com:443, password=pwd, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=trojan-tls-01
 ```
 

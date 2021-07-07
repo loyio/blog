@@ -1,4 +1,4 @@
-baseURL: "https://loyio.github.io/"
+baseURL: "https://blog.loyio.me/"
 title: Loyio's Blogs
 paginate: 5
 theme: PaperMod
@@ -75,11 +75,11 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
+          url: "https://twitter.com/loyiome"
         - name: stackoverflow
           url: "https://stackoverflow.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/loyio"
 
     analytics:
         google:

@@ -57,8 +57,8 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
+        title: Loyio
+        subtitle: "A Freelance Developer"
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -72,7 +72,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: Welcome to Loyio's Blog
 
     socialIcons:
         - name: twitter

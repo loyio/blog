@@ -50,8 +50,6 @@ max slope = 2.0
 
 {{< figure align="left" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/tRBEfMUntitled%201.png" title="原图" >}}
 
-![原图]()
-
 {{< figure align="right" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/krJHSkUntitled%202.png" title="处理后的图" >}}
 
 

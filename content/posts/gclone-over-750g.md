@@ -6,7 +6,7 @@ date: 2020-05-07T19:59:48+08:00
 # aliases: ["/2020/05/07/gclone-over-750g"]
 tags: ["GoogleDrive", "gclone", "autoclone", "谷歌云"]
 categories: ["GoogleDrive"]
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false

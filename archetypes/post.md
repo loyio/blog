@@ -11,7 +11,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -27,5 +26,3 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-# Descriptive text here
-<!--more-->

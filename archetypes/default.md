@@ -29,6 +29,3 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-
-# Descriptive text here
-<!--more-->

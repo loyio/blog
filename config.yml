@@ -114,6 +114,9 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+          
+    customCSS: ["css/custom.css"]
+    customJS: ["js/custom.js"]
 menu:
     main:
         - identifier: archive

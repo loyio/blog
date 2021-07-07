@@ -1,0 +1,21 @@
+
+
+/* Figure */
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
+
+
+.post-content figure>figcaption{
+	text-align: center;
+}

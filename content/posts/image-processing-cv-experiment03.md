@@ -48,11 +48,13 @@ max slope = 2.0
 
 图片效果如下
 
-{{< figure align="left" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/tRBEfMUntitled%201.png" title="原图" >}}
+<center>
 
-{{< figure align="right" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/krJHSkUntitled%202.png" title="处理后的图" >}}
+{{< figure align="left" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/tRBEfMUntitled%201.png" caption="原图" >}}
 
+{{< figure align="right" src="https://cdn.jsdelivr.net/gh/loyio/oss@main/blogs/2021/07/krJHSkUntitled%202.png" caption="处理后的图" >}}
 
+</center>
 
 可以看到部分区域对比度增强，图像中体现的信息也更为突出。
 

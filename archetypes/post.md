@@ -6,15 +6,12 @@ date: {{ .Date }}
 # aliases: ["/first"]
 tags: []
 categories: []
-author: "Loyio Hex"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false

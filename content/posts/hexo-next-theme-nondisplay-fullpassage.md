@@ -1,5 +1,5 @@
 ---
-title: "Hexo Next Theme Nondisplay Fullpassage"
+title: "设置Hexo博客Next主题主页不显示全文"
 date: 2020-05-04T19:17:40+08:00
 #description: <descriptive text here>
 # weight: 1
@@ -68,9 +68,7 @@ description: 首页的概述，正文内容不会显示
 
 在需要截断的地方加入
 
-```markdown
-<!--more-->
-```
+`<!--more-->`
 
 这时候首页就只会显示这条语句以上的内容，隐藏语句后面的所有内容
 

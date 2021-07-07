@@ -4,7 +4,7 @@ date: 2020-05-04T19:10:17+08:00
 #description: <descriptive text here>
 # weight: 1
 aliases: ["/2020/05/04/hexo-blog-seo"]
-tags: ["Hexo" "SEO" "搜索引擎" "搜索优化" "Baidu" "Google"]
+tags: ["Hexo","SEO","搜索引擎","搜索优化","Baidu","Google"]
 categories: ["网站搭建"]
 showToc: true
 TocOpen: false

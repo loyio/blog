@@ -112,19 +112,19 @@ params:
 menu:
     main:
         - identifier: archive
-          name: archive
-          url: /archive/
+          name: Archive
+          url: /archives/
           weight: 10
         - identifier: categories
-          name: categories
+          name: Categories
           url: /categories/
           weight: 20
         - identifier: search
-          name: search
+          name: Search
           url: /search/
           weight: 30
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 40
 outputs:

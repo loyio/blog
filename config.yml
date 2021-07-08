@@ -94,7 +94,7 @@ params:
         bing:
             SiteVerificationTag: "A6208F2F5992DE711F330A06F80AF8BC"
         yandex:
-            SiteVerificationTag: ""
+            SiteVerificationTag: "ce2f7520ac233208"
         baidu:
             SiteVerificationTag: "code-cwpSfkX3CN"
 

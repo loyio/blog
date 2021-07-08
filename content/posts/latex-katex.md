@@ -59,6 +59,26 @@ cover:
 
 
 
+#### 其它字符
+
+|   渲染字符   |    Katex     |   渲染字符   |    Katex     |  渲染字符   |    Katex    |   渲染字符   |    Katex     |
+| :----------: | :----------: | :----------: | :----------: | :---------: | :---------: | :----------: | :----------: |
+|   $\imath$   |   `\imath`   |   $\nabla$   |   `\nabla`   |    $\Im$    |    `\Im`    |   $\Reals$   |   `\Reals`   |
+| $\text{\OE}$ | `\text{\OE}` |   $\jmath$   |   `\jmath`   | $\partial$  | `\partial`  |   $\image$   |   `\image`   |
+|    $\wp$     |    `\wp`     | $\text{\o}$  | `\text{\o}`  |  $\aleph$   |  `\aleph`   |   $\Game$    |   `\Game`    |
+|   $\Bbbk$    |   `\Bbbk`    |  $\weierp$   |  `\weierp`   | $\text{\O}$ | `\text{\O}` |   $\alef$    |   `\alef`    |
+|   $\Finv$    |   `\Finv`    |     $\N$     |     `\N`     |    $\Z$     |    `\Z`     | $\text{\ss}$ | `\text{\ss}` |
+|  $\alefsym$  |  `\alefsym`  |   $\cnums$   |   `\cnums`   | $\natnums$  | `\natnums`  | $\text{\aa}$ | `\text{\aa}` |
+| $\text{\i}$  | `\text{\i}`  |   $\beth$    |   `\beth`    | $\Complex$  | `\Complex`  |     $\R$     |     `\R`     |
+| $\text{\AA}$ | `\text{\AA}` | $\text{\j}$  | `\text{\j}`  |  $\gimel$   |  `\gimel`   |    $\ell$    |    `\ell`    |
+|    $\Re$     |    `\Re`     | $\text{\ae}$ | `\text{\ae}` |  $\daleth$  |  `\daleth`  |   $\hbar$    |   `\hbar`    |
+|   $\real$    |   `\real`    | $\text{\AE}$ | `\text{\AE}` |   $\eth$    |   `\eth`    |  $\hslash$   |  `\hslash`   |
+|   $\reals$   |   `\reals`   | $\text{\oe}$ | `\text{\oe}` |             |             |              |              |
+
+
+
+
+
 ## 操作符
 
 ### 大操作符

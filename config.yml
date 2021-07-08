@@ -90,11 +90,13 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: ""
         bing:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: ""
         yandex:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: ""
+        baidu:
+            SiteVerificationTag: "code-cwpSfkX3CN"
 
     cover:
         hidden: true # hide everywhere but not in structured data

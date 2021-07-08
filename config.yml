@@ -3,6 +3,8 @@ title: Loyio's Blogs
 paginate: 5
 theme: PaperMod
 
+copyright: 
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -19,7 +21,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Loyio's Blog
     description: "Loyio's Blog"
-    keywords: [Blog, Portfolio, PaperMod]
+    keywords: [Blog, Loyio的博客, 李斯特, "程序", "个人博客"]
     author: Loyio Hex
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -96,7 +98,7 @@ params:
         yandex:
             SiteVerificationTag: "ce2f7520ac233208"
         baidu:
-            SiteVerificationTag: "code-cwpSfkX3CN"
+            SiteVerificationTag: ""
 
     cover:
         hidden: true # hide everywhere but not in structured data

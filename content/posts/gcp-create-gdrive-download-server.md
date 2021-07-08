@@ -3,7 +3,7 @@ title: "使用谷歌云搭建google drive离线下载服务器"
 date: 2020-04-28T11:43:18+08:00
 #description: <descriptive text here>
 # weight: 1
-# aliases: ["/first"]
+aliases: ["/2020/04/28/gcp-create-gdrive-download-server"]
 tags: ["Aria2","Google Drive", "GCP", "gclone", "谷歌云"]
 categories: ["服务器搭建"]
 showToc: true

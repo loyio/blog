@@ -92,7 +92,7 @@ params:
         google:
             SiteVerificationTag: ""
         bing:
-            SiteVerificationTag: ""
+            SiteVerificationTag: "A6208F2F5992DE711F330A06F80AF8BC"
         yandex:
             SiteVerificationTag: ""
         baidu:
